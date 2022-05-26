@@ -1,0 +1,17 @@
+C:\Users\FITS\source\repos\Criatividade\Criatividade\bin\Debug\net6.0-windows\Criatividade.exe
+C:\Users\FITS\source\repos\Criatividade\Criatividade\bin\Debug\net6.0-windows\Criatividade.deps.json
+C:\Users\FITS\source\repos\Criatividade\Criatividade\bin\Debug\net6.0-windows\Criatividade.runtimeconfig.json
+C:\Users\FITS\source\repos\Criatividade\Criatividade\bin\Debug\net6.0-windows\Criatividade.dll
+C:\Users\FITS\source\repos\Criatividade\Criatividade\bin\Debug\net6.0-windows\Criatividade.pdb
+C:\Users\FITS\source\repos\Criatividade\Criatividade\obj\Debug\net6.0-windows\Criatividade.csproj.AssemblyReference.cache
+C:\Users\FITS\source\repos\Criatividade\Criatividade\obj\Debug\net6.0-windows\Criatividade.Form1.resources
+C:\Users\FITS\source\repos\Criatividade\Criatividade\obj\Debug\net6.0-windows\Criatividade.csproj.GenerateResource.cache
+C:\Users\FITS\source\repos\Criatividade\Criatividade\obj\Debug\net6.0-windows\Criatividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FITS\source\repos\Criatividade\Criatividade\obj\Debug\net6.0-windows\Criatividade.AssemblyInfoInputs.cache
+C:\Users\FITS\source\repos\Criatividade\Criatividade\obj\Debug\net6.0-windows\Criatividade.AssemblyInfo.cs
+C:\Users\FITS\source\repos\Criatividade\Criatividade\obj\Debug\net6.0-windows\Criatividade.csproj.CoreCompileInputs.cache
+C:\Users\FITS\source\repos\Criatividade\Criatividade\obj\Debug\net6.0-windows\Criatividade.dll
+C:\Users\FITS\source\repos\Criatividade\Criatividade\obj\Debug\net6.0-windows\refint\Criatividade.dll
+C:\Users\FITS\source\repos\Criatividade\Criatividade\obj\Debug\net6.0-windows\Criatividade.pdb
+C:\Users\FITS\source\repos\Criatividade\Criatividade\obj\Debug\net6.0-windows\Criatividade.genruntimeconfig.cache
+C:\Users\FITS\source\repos\Criatividade\Criatividade\obj\Debug\net6.0-windows\ref\Criatividade.dll
